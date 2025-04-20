@@ -4,10 +4,10 @@
 
 cpp_learning_path/ <br>
 ├── intermediate_exercises/<br>
-│   └── ascii_string.cpp<br>
-│   └── string_methods.cpp<br>
+│   └── exercic.cpp<br>
+│   └── exercic.cpp<br>
 ├── advanced_exercises/<br>
-│   └── oop_example.cpp<br>
-│   └── algorithm_sorting.cpp<br>
+│   └── exercic.cpp<br>
+│   └── exercic.cp<br>
 ├── README.md<br>
 
