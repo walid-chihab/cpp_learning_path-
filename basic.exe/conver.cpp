@@ -1,9 +1,9 @@
 /***************************************************************************************************/
-/*     Donner un programme de conversion de longueur cm (c)                  					   */
-/*      en unité de pouce (p) ou l’inverse selon le choix de l’utilisateur.            	           */
-/*   Sachant qu’un pouce (inch) est égale à 2.54 cm   ( 1 inch = 2.54 cm).  					   */   
-/*    Donner deux propositions une utilisant une instruction if et l’autre utilisan                */  
-/*      t l’instruction switch.                    								                   */   
+/*    Donner un programme de conversion de longueur cm (c)                  					   */
+/*    en unité de pouce (p) ou l’inverse selon le choix de l’utilisateur.            	           */
+/*    Sachant qu’un pouce (inch) est égale à 2.54 cm   ( 1 inch = 2.54 cm).  					   */
+/*    Donner deux propositions une utilisant une instruction if et l’autre utilisan                */
+/*    t l’instruction switch.                    								                   */
 /***************************************************************************************************/
 #include <iostream>
 
