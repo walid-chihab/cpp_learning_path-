@@ -1,4 +1,4 @@
-    #include <stdio.h>
+#include <iostream>
     using namespace std;
     
     struct essai{
@@ -10,7 +10,7 @@
 //passage par adresse
     void miseazero (essai *e1)
     {
-        e->n = 0;
-        e->x = 0.0;
+        e1->n = 0;
+        e1->x = 0.0;
         
     }
