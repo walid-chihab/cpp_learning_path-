@@ -45,8 +45,8 @@ public:
 int main() {
     SetInt monEnsemble(100);  // Création d'un ensemble avec une capacité maximale de 100
 
-    cout << "Veuillez entrer 20 entiers :\n";
-    for (int i = 0; i < 20; i++) {
+    cout << "Veuillez entrer 5 entiers :\n";
+    for (int i = 0; i < 5; i++) {
         int val;
         cin >> val;
         monEnsemble.ajouter(val);  // Ajoute uniquement si val n'est pas déjà présent
