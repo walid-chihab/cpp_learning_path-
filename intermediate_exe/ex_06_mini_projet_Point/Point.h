@@ -10,5 +10,5 @@ class Point {
     		Point(float x, float y);
 
 		void deplace(float dx, float dy);
-		void affiche();
+		void affich();
 };
