@@ -47,7 +47,7 @@ int main() {
 
     cout << "Veuillez entrer 5 entiers :\n";
     for (int i = 0; i < 5; i++) {
-        int val;
+a        int val;
         cin >> val;
         monEnsemble.ajouter(val);  // Ajoute uniquement si val n'est pas déjà présent
     }
