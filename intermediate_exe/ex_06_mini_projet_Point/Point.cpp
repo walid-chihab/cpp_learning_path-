@@ -4,7 +4,7 @@
 using namespace std;
 
 //standare valeur par constructeur
-//preferenr faire ca dans le fichier point.h
+//preferent faire ca dans le fichier point.h
 //Point :: Point (float a=0 , float b=0) : x(a),y(b) {}
 
 //standare valeurs par l'utilisateur 
